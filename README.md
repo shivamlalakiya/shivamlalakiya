@@ -3,7 +3,7 @@
 <h3>I am currently pursuing my Master of Science in Data Analytics Engineering from Northeastern University, Boston. I'm good at making data-driven judgments and enjoy working on data and Machine Learning related initiatives.</br></br>
 I am currently working as a Data Scientist co-op at Ring Therapeutics, Collaborating with the Viral genomics team to develop Anello-backed programmable medicine. My main goal is to develop an NLP-based model for genes to predict tropism for creating viral vectors that can safely and effectively deliver therapies to target cells and tissues.</br></br>
 I can state the following about myself based on my personal and professional experiences:
-</h3>
+
 
 - I'm great at leading projects and managing teams.
 
@@ -14,7 +14,7 @@ I can state the following about myself based on my personal and professional exp
 - Every day, I educate and refine myself to become a better person.
 
 Meeting new people and obtaining new experiences are two of my favorite things. I enjoy reading books, watching movies, and consuming anything that can help me grow, broaden my horizons, or rethink my viewpoints on various topics.</br>
-
+</h3>
 
 <h3 align="left">Technical Skills:</h3>
 Python Programming | AI | Machine Learning | Deep Learning | Natural Language Processing |Computer Vision | Data Engineering | R programming | SQL
