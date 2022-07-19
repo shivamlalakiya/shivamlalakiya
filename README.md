@@ -1,11 +1,13 @@
 
 <h1>Hi, I'm Shivam 👋</h1>
-<h3>A life long learner and a tech enthusiast by passion. I love to solve problems using modern technology. I aim to build and scale smart products to make people's lives simpler. I have worked as an Research Assistant at IIT Madras. Currently, I'm pursuing my Masters in Data Analytics Engineering at Northeastern University, Boston. I am also colloborating with Prof. Milad Siami at Siami Lab on various projects.
+<h3>I am currently pursuing my Master of Science in Data Analytics Engineering from Northeastern University, Boston. I'm good at making data-driven judgments and enjoy working on data and Machine Learning related initiatives.
 
 
-Basically, I am a Data Scientist, Data Analyst, Data Engineer, and Machine Learning Engineer.</h3>
+I am currently working as a Data Scientist co-op at Ring Therapeutics, Collaborating with the Viral genomics team to develop Anello-backed programmable medicine. My main goal is to develop an NLP-based model for genes to predict tropism for creating viral vectors that can safely and effectively deliver therapies to target cells and tissues.
+I can state the following about myself based on my personal and professional experiences:
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrsh25&label=Profile%20views&color=0e75b6&style=flat" alt="Shivam151299" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrsh25&label=Profile%20views&color=0e75b6&style=flat" alt="shivamlalakiya" /> </p>
 
 - 🔭 I’m currently working on **Developing the Analytics/ Machine Learning skills to deal with huge amount of data**
 
