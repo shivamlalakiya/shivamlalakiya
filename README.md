@@ -9,15 +9,13 @@ I can state the following about myself based on my personal and professional exp
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrsh25&label=Profile%20views&color=0e75b6&style=flat" alt="shivamlalakiya" /> </p>
 
-- 🔭 I’m currently working on **Developing the Analytics/ Machine Learning skills to deal with huge amount of data**
+- I'm great at leading projects and managing teams.
 
-- 🤓 I’m currently learning **ETL pipeline, Data Engineering**
+- I am a skilled communicator.
 
-- 💬 Contact me to discuss **Emerging Tech, Automation Ideas, Product Development**
+- I make decisions based on data.
 
-- 📫 Reach me at **lalakiya.s@northeastern.edu**
-
-- ⚡ Fun fact **I love reading books and news, Maths and History are my favourite subjects**
+- Every day, I educate and refine myself to become a better person.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
