@@ -1,9 +1,11 @@
 
 <h1>Hi, I'm Shivam 👋</h1>
-<h3>I am currently pursuing my Master of Science in Data Analytics Engineering from Northeastern University, Boston. I'm good at making data-driven judgments and enjoy working on data and Machine Learning related initiatives.
+<h3>I am currently pursuing my Master of Science in Data Analytics Engineering from Northeastern University, Boston. I'm good at making data-driven judgments and enjoy working on data and Machine Learning related initiatives.</br>
 
 
-I am currently working as a Data Scientist co-op at Ring Therapeutics, Collaborating with the Viral genomics team to develop Anello-backed programmable medicine. My main goal is to develop an NLP-based model for genes to predict tropism for creating viral vectors that can safely and effectively deliver therapies to target cells and tissues.
+I am currently working as a Data Scientist co-op at Ring Therapeutics, Collaborating with the Viral genomics team to develop Anello-backed programmable medicine. My main goal is to develop an NLP-based model for genes to predict tropism for creating viral vectors that can safely and effectively deliver therapies to target cells and tissues.</br>
+
+
 I can state the following about myself based on my personal and professional experiences:
 </h3>
 
@@ -17,9 +19,11 @@ I can state the following about myself based on my personal and professional exp
 
 - Every day, I educate and refine myself to become a better person.
 
+Meeting new people and obtaining new experiences are two of my favorite things. I enjoy reading books, watching movies, and consuming anything that can help me grow, broaden my horizons, or rethink my viewpoints on various topics.</br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shivam-lalakiya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shivam151299" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivam-lalakiya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivamlalakiya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
