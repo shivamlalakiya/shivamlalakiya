@@ -16,9 +16,9 @@ I can state the following about myself based on my personal and professional exp
 Meeting new people and obtaining new experiences are two of my favorite things. I enjoy reading books, watching movies, and consuming anything that can help me grow, broaden my horizons, or rethink my viewpoints on various topics.</br>
 </h3>
 
-<h3 align="left">Technical Skills:</h3>
+<h3 align="left">**Technical Skills**:
 Python Programming | AI | Machine Learning | Deep Learning | Natural Language Processing |Computer Vision | Data Engineering | R programming | SQL
-
+</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shivam-lalakiya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivamlalakiya" height="30" width="40" /></a>
