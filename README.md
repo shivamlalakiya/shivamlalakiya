@@ -1,6 +1,5 @@
 
 <h1>Hi, I'm Shivam 👋</h1>
-<h4>I am currently pursuing my Master of Science in Data Analytics Engineering from Northeastern University, Boston. I'm good at making data-driven judgments and enjoy working on data and Machine Learning related initiatives.</br></br>
 I am currently working as a Data Analyst at Washington University in St. Louis.
 I can state the following about myself based on my personal and professional experiences:</br>
 
