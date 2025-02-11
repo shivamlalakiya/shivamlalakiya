@@ -1,9 +1,8 @@
 
 <h1>Hi, I'm Shivam 👋</h1>
 <h4>I am currently pursuing my Master of Science in Data Analytics Engineering from Northeastern University, Boston. I'm good at making data-driven judgments and enjoy working on data and Machine Learning related initiatives.</br></br>
-I am currently working as a Data Scientist co-op at Ring Therapeutics, Collaborating with the Viral genomics team to develop Anello-backed programmable medicine. My main goal is to develop an NLP-based model for genes to predict tropism for creating viral vectors that can safely and effectively deliver therapies to target cells and tissues.</br></br>
+I am currently working as a Data Analyst at Washington University in St. Louis.
 I can state the following about myself based on my personal and professional experiences:</br>
-
 
 - I'm great at leading projects and managing teams.</br>
 
