@@ -1,17 +1,9 @@
 
 <h1>Hi, I'm Shivam 👋</h1>
-I am currently working as a Data Analyst at Washington University in St. Louis.
-I can state the following about myself based on my personal and professional experiences:</br>
+Tech enthusiast and data-driven problem solver passionate about building intelligent, scalable solutions that make life easier. Currently pursuing an MS in Data Analytics Engineering at Northeastern University and working as a Data Scientist/Analyst at Washington University in St. Louis, where I leverage data to drive smarter fundraising strategies.
 
-- I'm great at leading projects and managing teams.</br>
+I thrive on leading projects, collaborating with teams, and making decisions grounded in data. Always learning, always improving—and always curious about new ideas, technologies, and perspectives.
 
-- I am a skilled communicator.</br>
-
-- I make decisions based on data.</br>
-
-- Every day, I educate and refine myself to become a better person.</br>
-
-Meeting new people and obtaining new experiences are two of my favorite things. I enjoy reading books, watching movies, and consuming anything that can help me grow, broaden my horizons, or rethink my viewpoints on various topics.</br>
 </h4>
 <h3>Technical Skills:</br></h3>
 
